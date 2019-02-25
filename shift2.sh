@@ -1,5 +1,9 @@
 #!/bin/bash
 
+read -p "Enter Name" name
 
-echo "shift2"
+echo "Hello , $name"
+
+echo "This is shif2"
+
 
