@@ -1,8 +1,7 @@
 #!/bin/bash
 
+read -p "Enter Name" name
+echo "Hello , $name "
+echo "This is shift1 "
 
 
-
-echo "test"
-
-cat /etc/passwd | grep kokomaung
